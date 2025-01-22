@@ -1,0 +1,1 @@
+we were to design for xavier a simple e-commerce website where he can sell, artefacts,souvenirs and food and drinks .the artefacts are like pottery,wooven textiles or curved wood items food and drinks are like chocolates ,spices,jams or wine
